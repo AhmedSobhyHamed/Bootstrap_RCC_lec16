@@ -1,0 +1,29 @@
+@import url('./all.min.css');
+
+/* .h-350>div {
+    height: 80vh;
+} */
+
+.carousel-caption {
+    left: 15%;
+    transform: translateY(50%);
+
+}
+.circle-anim {
+    transform: scale(0);
+    transition: transform 0.5s;
+}
+.carousel-caption .col-4.position-relative:hover .circle-anim {
+    transform: scale(1);
+}
+
+.bg-img {
+    background-image: url("https://ui-themez.smartinnovates.net/items/geekfolio/dark/assets/imgs/freelancer/h2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.ux h1 {
+    font-size: 120px;
+
+}
