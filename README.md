@@ -138,7 +138,7 @@ This project is a Bootstrap practice section during a PHP full-stack RCC diploma
 ## Usage
 
 **You can interact with the project via this link**
-[web page on github](https://ahmedsobhyhamed.github.io/Bootstrap_RCC_Project/).
+[web page on github](https://ahmedsobhyhamed.github.io/Bootstrap_RCC_lec16/).
 <br>
 **[see an example for user interaction.[video]](https://youtube.com)**
 <br>
@@ -156,6 +156,7 @@ This project is a Bootstrap practice section during a PHP full-stack RCC diploma
 
 - Project page:
   - index.html
+
     <!-- licance -->
 
 ## License
