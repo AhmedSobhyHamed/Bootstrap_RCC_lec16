@@ -1,4 +1,4 @@
-# Bootstrap_ACC_Project
+# Bootstrap_RCC_lec16
 
 A small Bootstrap-based project using HTML, CSS, and Bootstrap to practice during an RCC course.
 ![](repo-image/name.png)
