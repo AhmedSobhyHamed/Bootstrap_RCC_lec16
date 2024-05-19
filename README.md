@@ -24,6 +24,7 @@ This project is a Bootstrap practice section during a PHP full-stack RCC diploma
 ## Features
 
 - Using bootstrap 5.
+- Using font awesome 6.
 - Use the Bootstrap navbar component.
   <br>
   Example:
